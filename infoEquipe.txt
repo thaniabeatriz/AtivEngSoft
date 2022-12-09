@@ -1,0 +1,25 @@
+Aula 10 - Engenharia de Software
+
+Grupo:  Aden Hércules
+        Carlos Omar
+        Daniel Martins
+        João Pedro
+        Thânia Beatriz
+
+
+(PO)
+Product Owner: Thania Beatriz Costa Galvão Pereira
+Equipe:
+(SM)
+Scrum Master: João Pedro Nascimento Silveira
+    Desenvolvedor 1: (Devs)
+    Habilidades:
+    Experiência:
+
+    Desenvolvedor 2: (Devs)
+    Habilidades:
+    Experiência:
+
+    Desenvolvedor 3: (Devs)
+    Habilidades:
+    Experiência:
