@@ -16,9 +16,9 @@ Scrum Master: João Pedro Nascimento Silveira
     Habilidades: Conhecimento (mínimos) no Framework Angular, em TypeScript, versionamento de código etc...
     Experiência: Experiência na área de desenvolvimento WEB no tribunal de justiça do estado de Rondônia.
 
-    Desenvolvedor 2: (Devs)
-    Habilidades:
-    Experiência:
+    Desenvolvedor 2: Daniel Costa Martins
+    Habilidades:  Node.js | Python | Docker | MongoDB
+    Experiência: Desenvolvimento de APIS REST 
 
     Desenvolvedor 3: (Devs)
     Habilidades:
