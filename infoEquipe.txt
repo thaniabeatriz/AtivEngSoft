@@ -20,6 +20,6 @@ Scrum Master: João Pedro Nascimento Silveira
     Habilidades:  Node.js | Python | Docker | MongoDB
     Experiência: Desenvolvimento de APIS REST 
 
-    Desenvolvedor 3: (Devs)
+    Desenvolvedor 3: Carlos Omar Duenas Mendoza
     Habilidades: Docker | Conhecimento medio sobre Acessibilidade Web | Java 
     Experiência: Experiência em correções em Acessibilidade Web no portal do Tribunal de Jutiça do estado de Rondônia. 
